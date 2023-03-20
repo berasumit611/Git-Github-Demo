@@ -1,2 +1,3 @@
 # demo-repo
-Demo for Git &amp; Github
+Demo for Git & Github
+Some description
